@@ -1,3 +1,5 @@
+# SRC: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list
+
 if __name__ == '__main__':
     # Get hackerrank input
     n = int(input())
